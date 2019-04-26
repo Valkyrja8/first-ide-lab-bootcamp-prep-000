@@ -1,6 +1,6 @@
-<DOCTYPE! html>
+<!DOCTYPE html>
 <html>
-<div>
+<main>
 <h1>"Hello World"</h1>
-</div>
-<code>learn</code>
+</main>
+
